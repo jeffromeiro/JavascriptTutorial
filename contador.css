@@ -1,0 +1,18 @@
+h1{
+    color: teal;
+    font-size: 40px;
+    font-weight: bold;
+    width: 500px;
+}
+
+button{
+    width: 100px;
+    height: inherit;
+}
+
+#valor{
+    font-size: 100px;
+    width: 300px;
+    display: block;
+    text-align: center;
+}

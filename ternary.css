@@ -1,0 +1,31 @@
+h1 {
+    color: turquoise;
+    font-weight: bold;
+
+}
+
+#labelEntrada{
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+
+#botao{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+#entrada {
+    width: 40px;
+}
+
+
+#resultado, #testeLocale{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}

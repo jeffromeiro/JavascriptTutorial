@@ -1,0 +1,21 @@
+#titulo{
+    color: yellow;
+    background-color: black;
+    width: 300px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#contador{
+    color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+#novaLista{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+#titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: chartreuse;
+
+}
+
+#texto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#enviar{
+    color:white;
+    font-weight: bold;
+    background-color: black;
+    margin-top: 10px;
+}
+

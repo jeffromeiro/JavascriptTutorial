@@ -1,0 +1,19 @@
+#titulo, #time{
+
+    color: turquoise;
+    font-weight: bold;
+    
+    }
+    
+    #paragrafo{
+        font-style: italic;
+        font-weight: bold;
+        width: 400px;
+    }
+    
+    #meuBotao, #botao2{
+        background-color: black;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+    }

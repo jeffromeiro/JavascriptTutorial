@@ -1,0 +1,43 @@
+#titulo{
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+    width: 300px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+}
+
+#idade{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#enviaIdade{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+#formulario{
+    width: 300px;
+    text-align: center;
+}
+
+#resultado{
+    font-size: 20px;
+    margin-top: 20px;
+    color: darkgreen;
+    font-weight: bold;
+    width: 300px;
+    display: block;
+    text-align: center;
+    
+}

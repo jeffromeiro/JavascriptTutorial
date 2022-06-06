@@ -1,0 +1,26 @@
+#titulo{
+    color: yellowgreen;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+p{
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#labelEntrada{
+    color: darkblue;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+#resultado{
+    color: rgb(53, 221, 20);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-top: 20px;
+}

@@ -1,0 +1,35 @@
+#botao, #botaoNumero{
+    color: blueviolet;
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: large;
+}
+
+#titulo{
+    color: brown;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#label{
+    color:blue;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#nota::placeholder{
+    color: yellowgreen;
+    font-weight: bold;
+    
+}
+
+
+#nota {
+    width: 30px;
+    text-transform: capitalize;
+    
+}
+
+#botao{
+    margin-top: 10px;
+}

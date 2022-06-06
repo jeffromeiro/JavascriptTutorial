@@ -1,0 +1,7 @@
+#meuDiv {
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 1px solid;
+    position: absolute;
+}

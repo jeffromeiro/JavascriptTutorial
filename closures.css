@@ -1,0 +1,20 @@
+#titulo{
+    color: violet;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#paragrafo{
+    color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 500px;
+
+}
+
+#botaoEmail{
+    background-color: grey;
+    color: bisque;
+    font-size: 15px;
+    font-weight: bold;
+}

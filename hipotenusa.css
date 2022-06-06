@@ -1,0 +1,33 @@
+h1{
+    color: chartreuse;
+    width: 500px;
+    text-align: center;
+}
+
+label {
+    color: chocolate;
+    font-weight: bold;
+    position: relative;
+    left:20px;
+}
+
+input{
+    position: absolute;
+    left: 240px;
+}
+
+button{
+    position: relative;
+    left: 160px;
+    
+    width: 100px;
+    
+}
+
+#resultado{
+    width: 500px;
+    text-align: center;
+    font-size: 40px;
+    color: turquoise;
+    
+}

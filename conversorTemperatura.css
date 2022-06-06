@@ -1,0 +1,19 @@
+h1{
+    color: chartreuse;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#botao{
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
