@@ -1,14 +1,24 @@
-# Exemplos de código Javascript
+Exemplos de código JavaScript
+=============================
 
-## Curso do youtube BRO
+Exemplos do canal do youtube BRO Code
+-------------------------------------
 
-**Texto negrito**
+**Alguns dos temas**
 
- - Aulas de javascript
- - vários tipo de videos
-
- 1. Lista item 1
- 2. Lista item 2
- 3. Lista item 3
- 4. Lista item 4
- 5. Lista item 5 
+*   Variáveis
+*   Condições
+*   Switches
+*   Loops
+*   Arrays
+*   Spread e Rest
+*   Callbacks
+*   Closures
+*   Objetos
+*   Classes
+*   Exceptions
+*   setInterval
+*   setTimeout
+*   Promises
+*   Async
+*   Manipulando a Dom
