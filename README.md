@@ -1,5 +1,5 @@
-Exemplos de código JavaScript
-=============================
+Primeiro projeto para o curso de GIT da DIO
+===========================================
 
 Exemplos do canal do youtube BRO Code
 -------------------------------------
